@@ -29,7 +29,8 @@ Pelicci, Simone, Laura Furia, Francesco Spadari, et al. 2026. «Automated Intell
 
 # [AMICO_Union](Union.md)
 Macro to Browse through Acquired Images, Set for Segmentation and Analysis of Particles, Set of intracellular subcompartment (e.g. foci) recognition. Results are stored in a tab-txt file. The macro works on .nd2, multichannel OME.tiff files or on separated channels tiffs for a single position.
-[AMICO_Union](https://github.com/MarioFaretta/AMICO/blob/main/AMICO_Union.txt)
+Source:
+[AMICO_Union.txt](https://github.com/MarioFaretta/AMICO/blob/main/AMICO_Union.txt)
 # AMICO_Plotting.txt
 Macro to analyze the results of AMICO_Union Image Analysis producing Dot Plots and Histograms. It is possible to define Regions of Interest and combine them into logical gates as normally done in flow-cytometry.
 
