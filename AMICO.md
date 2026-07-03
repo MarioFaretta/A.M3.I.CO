@@ -27,3 +27,9 @@ Pelicci, Simone, Laura Furia, Pier Giuseppe Pelicci, e Mario Faretta. 2024. «Fr
 
 Pelicci, Simone, Laura Furia, Francesco Spadari, et al. 2026. «Automated Intelligent Microscopy for Phenotype Identification, Spatial Localization, and Retargeting of Cells». In Laser Capture Microdissection: Methods and Protocols, a cura di Roberta Noberini. Springer US. https://doi.org/10.1007/978-1-0716-5154-4_15.
 
+# [AMICO_Union](https://github.com/MarioFaretta/AMICO/blob/main/AMICO_Union.txt)
+Macro to Browse through Acquired Images, Set for Segmentation and Analysis of Particles, Set of intracellular subcompartment (e.g. foci) recognition. Results are stored in a tab-txt file. The macro works on .nd2, multichannel OME.tiff files or on separated channels tiffs for a single position.
+[AMICO_Union](https://github.com/MarioFaretta/AMICO/blob/main/AMICO_Union.txt)
+# AMICO_Plotting.txt
+Macro to analyze the results of AMICO_Union Image Analysis producing Dot Plots and Histograms. It is possible to define Regions of Interest and combine them into logical gates as normally done in flow-cytometry.
+
