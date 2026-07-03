@@ -1,16 +1,20 @@
-<img width="1600" height="836" alt="image" src="https://github.com/user-attachments/assets/56787f4f-ec03-4597-a9de-cd0e73c56d1d" />
 
 
-# Macros for Image Cytometry Analysis by Fluorescence Microscopy in ImageJ. 
+<img width="500" height="163" alt="image" src="https://github.com/user-attachments/assets/242765d6-ab87-40d0-805f-4c85b67cf4e0" />
+
+
+# Automated Microscopy for Image CytOmetry A.M.I.CO
+
+## Macros for Image Cytometry Analysis by Fluorescence Microscopy in ImageJ. 
 The site is under construction. For more information take a look at the references below or write to mario.faretta@ieo.it
 The macros were tested on ImageJ 1.53n, JAVA 1.8.0_172 (64-bit) on Windows 10.
 
-# History
+## History
 
 <img width="600" height="432" alt="immagine" src="https://github.com/user-attachments/assets/6bb3bfaf-fd92-459c-b921-0903128d6dad" />
 
 
-# References:
+## References:
 Furia, Laura, Pier Giuseppe Pelicci, e Mario Faretta. 2013a. «A Computational Platform for Robotized Fluorescence Microscopy (I): High-Content Image-Based Cell-Cycle Analysis». Cytometry Part A 83A (4): 333–43. https://doi.org/10.1002/cyto.a.22266.
 
 Furia, Laura, Pier Giuseppe Pelicci, e Mario Faretta. 2013b. «A Computational Platform for Robotized Fluorescence Microscopy (II): DNA Damage, Replication, Checkpoint Activation, and Cell Cycle Progression by High-Content High-Resolution Multiparameter Image-Cytometry». Cytometry Part A 83A (4): 344–55. https://doi.org/10.1002/cyto.a.22265.
