@@ -12,7 +12,7 @@ Automated image analysis provides the basis for the implementation of an image c
 
 The Automated Microscopy for Image Cytometry A.M<sup>3</sup>.I.CO pipeline is composed of protocols, procedures, and computational tools starting from sample preparation to image collection and data analysis.This site contains the sources of the developed ImageJ macros to perform  analysis on the acquired images.
 
-# ---------------------------------------------------------------------------
+# -----------------------------------------------------------------
 
 # Macros for Image Cytometry Analysis by Fluorescence Microscopy in ImageJ. 
 ## [AMICO_Union](Union.md)
