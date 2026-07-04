@@ -27,7 +27,7 @@ Macro to analyze the results of AMICO_Union Image Analysis producing Dot Plots a
 The site is under construction. For more information take a look at the references below or write to mario.faretta@ieo.it
 The macros were tested on ImageJ 1.53n, JAVA 1.8.0_172 (64-bit) on Windows 10.
 
-
+# -----------------------------------------------------------------
 
 ## History
 
