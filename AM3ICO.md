@@ -1,4 +1,5 @@
-<img width="782" height="255" alt="image" src="https://github.com/user-attachments/assets/53380928-68b0-4b7b-a117-735f9ed67079" />
+<img width="782" height="255" alt="image" src="https://github.com/user-attachments/assets/a89cf729-5a97-421a-969a-e0758701c640" />
+
 
 # Automated Multiplexed Multimodal Microscopy for Image CytOmetry A.M<sup>3</sup>.I.CO
 
