@@ -15,7 +15,7 @@ The Automated Microscopy for Image Cytometry A.M<sup>3</sup>.I.CO pipeline is co
 # -----------------------------------------------------------------
 
 # Macros for Image Cytometry Analysis by Fluorescence Microscopy in ImageJ. 
-## [AMICO_Union](Union_Tutorial/Union.md)
+## [AMICO_Union](https://github.com/MarioFaretta/A.M3.I.CO/blob/Tutorial/Union_Tutorial/Union.md)
 Macro to Browse through acquired images, set up of Segmentation parameters and analysis of particles, and intracellular subcompartment (e.g. foci) recognition. Results are stored in a tab-txt file. The macro works on .nd2, multichannel OME.tiff files or on separated channels tiffs for a single position.
 
 Source:
