@@ -12,7 +12,8 @@ Open ImageJ and from the plugin list launch AM<sup>3</sup>ICO_Union. Select the 
 The  **Browser** in the main window 
 <img width="1312" height="665" alt="immagine" src="https://github.com/user-attachments/assets/60b32eed-15b1-4111-9e23-3ff62c3ee3d9" />
 allow you to navigate through the acquired images
-<img width="1363" height="1019" alt="immagine" src="https://github.com/user-attachments/assets/32ad58a5-4677-440a-85bb-9ff9af773d6e" />
+<img width="1504" height="1125" alt="immagine" src="https://github.com/user-attachments/assets/e746172f-5cff-4f50-8389-dbdb31961c0d" />
+
 
 
 
