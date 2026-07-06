@@ -9,13 +9,10 @@ Union employs the [Convolve 3D](https://www.optinav.info/download/Convolve_3D.cl
 ### Launch Union
 Open ImageJ and from the plugin list launch AM<sup>3</sup>ICO_Union. Select the folder containing the images to be analyzed.
 <img width="1302" height="776" alt="immagine" src="https://github.com/user-attachments/assets/50bd189b-1fe3-4647-bc83-05429031b014" />
-The  **Browser** in the main window 
-<img width="1312" height="665" alt="immagine" src="https://github.com/user-attachments/assets/60b32eed-15b1-4111-9e23-3ff62c3ee3d9" />
-allow you to navigate through the acquired images
-<img width="1504" height="1125" alt="immagine" src="https://github.com/user-attachments/assets/e746172f-5cff-4f50-8389-dbdb31961c0d" />
+In the main window select:
+- ##Browser## to navigate through the acquired images
+- ##Analysis## to set up the image analysis parameters for the segmmentation of the cells and intracellular compartments
 
- ### 📁 Approfondimenti disponibili
- Vuoi saperne di più? Vai alla [Documentazione Secondaria](documentazione.md) 
 
 
 
