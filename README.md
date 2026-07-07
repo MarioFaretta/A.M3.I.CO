@@ -2,7 +2,7 @@
 
 # Automated Multiplexed Multimodal Microscopy for Image CytOmetry A.M<sup>3</sup>.I.CO
 
-Microscope automation allows surpassing intrinsic limitations of human-driven usage of the instrument, providing:
+Microscope automation allows surpassing the intrinsic limitations of human-driven usage of the instrument, providing:
 
 - virtually unlimited sampling with the acquisition of hundreds to thousands of images in multiple fluorescence channels
 
