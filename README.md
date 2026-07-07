@@ -21,7 +21,8 @@ Macro to Browse through acquired images, set up of Segmentation parameters and a
 Source:
 [AMICO_Union.txt](https://github.com/MarioFaretta/AMICO/blob/main/AMICO_Union.txt)
 
-## AMICO_Plotting.txt
+## [AMICO_Plotting](https://github.com/MarioFaretta/A.M3.I.CO/blob/Tutorial/Plotting_Tutorial/1-Plotting.md)
+
 Macro to analyze the results of AMICO_Union Image Analysis producing Dot Plots and Histograms. It is possible to define Regions of Interest and combine them into logical gates as normally done in flow-cytometry.
 
 Source:
