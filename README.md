@@ -25,7 +25,7 @@ Source:
 Macro to analyze the results of AMICO_Union Image Analysis producing Dot Plots and Histograms. It is possible to define Regions of Interest and combine them into logical gates as normally done in flow-cytometry.
 
 Source:
-[AMICO_Union.txt](https://github.com/MarioFaretta/AMICO/blob/main/AMICO_Plotting.txt)
+[AMICO_Plotting.txt](https://github.com/MarioFaretta/AMICO/blob/main/AMICO_Plotting.txt)
 
 # -----------------------------------------------------------------
 The site is under construction. For more information take a look at the references below or write to mario.faretta@ieo.it
