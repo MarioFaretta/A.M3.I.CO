@@ -8,7 +8,36 @@ The macro will report in the ImageJ Log window the number of retrieved events in
 
 <img width="937" height="487" alt="immagine" src="https://github.com/user-attachments/assets/ce1add08-18d7-4020-969b-e4f67ded4ffa" />
 
-and retrieving the number of channels and subcompartments from the structure of the result file previously described in the [**Union**](https://github.com/MarioFaretta/A.M3.I.CO/blob/Tutorial/Union_Tutorial/1.2-Analysis.md) section. The "Dot Plot Mean_Filter Radius" is a graphical parameter that determines the dimension of the spots in the generated Dot Plots.
+and retrieving the number of channels and subcompartments from the structure of the result file previously described at the end of the [**Union-Analysis**](https://github.com/MarioFaretta/A.M3.I.CO/blob/Tutorial/Union_Tutorial/1.2-Analysis.md) section. The "Dot Plot Mean-Filter Radius" is a graphical parameter that determines the dimension of the spots in the generated Dot Plots. If the processed images directory is present in its original position it will be automatically recognized, otherwise it will be asked to relocate it:
+
+<img width="901" height="708" alt="immagine" src="https://github.com/user-attachments/assets/13359c03-6b20-43eb-893d-3516f76be095" />
+
+Then, select in the series of appearing windows the parameters of interest for the graphical representation and statistics calculation starting from the basic ones relative to the **Cell** compartment
+
+<img width="1001" height="466" alt="immagine" src="https://github.com/user-attachments/assets/858538a5-8df5-494c-a5d7-408d2f3c45fb" />
+
+the ones summarizing the **Subcompartment** properties in the cells (one window per subcompartment)
+
+<img width="966" height="466" alt="immagine" src="https://github.com/user-attachments/assets/70a7efe3-f2d6-4d77-b2ae-5d4b221511bb" />
+
+and then the parameters for each **Subcompartment**
+
+<img width="966" height="466" alt="immagine" src="https://github.com/user-attachments/assets/7ba02ee2-a752-4e5f-afa3-c92ee490d0a5" />
+
+It is also possible to compute new "Derived Channels"
+
+<img width="930" height="457" alt="immagine" src="https://github.com/user-attachments/assets/62ea86f8-acc3-482f-a37d-ea5881054e43" />
+
+The number of the available **Ratiometric Channels** is reported in the window and corresponds to the number of unchecked parameters specified in the previous passages (e.g. if all the parameters Mean, Total Intensity, Standard Deviation... present in the result file are requested no additional channel will be available)
+
+In the same window, the "Calculate Stage Positions" option will activate the retrieval of the microscope-stage coordinates on all the detected events. The position retrieval will also be available later even if this option will not be activated.
+
+NB. Stage Coordinates retrieval can be quite time consuming if a high number of events has been detected. Except for particular cases, it is more convenient to leave the option unchecked 
+
+
+
+
+
 
 
 
