@@ -8,7 +8,7 @@ The macro will report in the ImageJ Log window the number of retrieved events in
 
 <img width="937" height="487" alt="immagine" src="https://github.com/user-attachments/assets/ce1add08-18d7-4020-969b-e4f67ded4ffa" />
 
-and retrieving the number of channels and subcompartments from the structure of the result file previously described in the [**Union**](https://github.com/MarioFaretta/A.M3.I.CO/blob/Tutorial/Union_Tutorial/1-Union.md) section. The "Dot Plot Mean_Filter Radius" is a graphical parameter that determines the dimension of the spots in the generated Dot Plots.
+and retrieving the number of channels and subcompartments from the structure of the result file previously described in the [**Union**](https://github.com/MarioFaretta/A.M3.I.CO/blob/Tutorial/Union_Tutorial/1.2-Analysis.md) section. The "Dot Plot Mean_Filter Radius" is a graphical parameter that determines the dimension of the spots in the generated Dot Plots.
 
 
 
