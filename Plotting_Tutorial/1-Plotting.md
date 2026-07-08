@@ -42,7 +42,7 @@ At the end of the loading phase, the main window will appear showing the layout 
 
 By clicking on the **Axis Button (1)** define the X and Y axis in the graph. Specify the Minimum and Maximum values for the axis scale by the **Manual (2)** buttons. **Auto (3)** option will set the limits to the minimum or maximum values detected amog all the loaded events. **voltage (4)** will linearly dilate the scale by the indicated factor (values < 1 =  contraction), while a shift is defined by the **Offset (5)**, according to a linear transformation.
 
-A [**Dot Plot**](https://github.com/MarioFaretta/A.M3.I.CO/blob/Tutorial/Plotting_Tutorial/Plotting_Tutorial/1.2-Dot_Plot_and_Histogram.md) will be generated
+A [**Dot Plot**](Plotting_Tutorial/1.2-Dot_Plot_and_Histogram.md) will be generated
 
 <img width="973" height="1125" alt="immagine" src="https://github.com/user-attachments/assets/2aca70e0-b220-4e47-9448-1e97bcf4ed67" />
 
