@@ -48,6 +48,22 @@ A [**Dot Plot**](1.2-Dot_Plot_and_Histogram.md) will be generated
 
 **NB.** The macro always activate this image as reference. Every operation in ImageJ will be applied to this image even if other ones are open since it will remain as active image, even if you switch to other ones. To activate ImageJ operations on other open images please press the **Pause** button (as indicated in the figure) to pause the macro and to work in standard conditions .When the cursor will be inside the graph area (red rectangle) ImageJ will automatically activate the Rectangle Selection option in the toolbar, while outside this area the Hand Scrolling tool will work. 
 
+With the **"Pictures"** button
+<img width="673" height="337" alt="immagine" src="https://github.com/user-attachments/assets/d38abf2d-262e-4ed0-9f26-ef4d15e8a01d" />
+
+some crosses will appear: by clicking on their center the corresponding cell in the originating image will be displayed employing the 5D Image plugin. 
+One shows the original whole field of view
+
+<img width="1233" height="859" alt="immagine" src="https://github.com/user-attachments/assets/9aa0b5e2-47af-4126-90d8-0248402f66ad" />
+
+while the second is a crop of the selected cell.
+
+<img width="1405" height="947" alt="immagine" src="https://github.com/user-attachments/assets/25077033-3e75-4587-976c-1d42cc3e56e3" />
+
+
+
+
+
 
 
 
