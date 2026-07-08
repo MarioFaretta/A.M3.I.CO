@@ -42,6 +42,11 @@ At the end of the loading phase, the main window will appear showing the layout 
 
 By clicking on the **Axis Button (1)** define the X and Y axis in the graph. Specify the Minimum and Maximum values for the axis scale by the **Manual (2)** buttons. **Auto (3)** option will set the limits to the minimum or maximum values detected amog all the loaded events. **voltage (4)** will linearly dilate the scale by the indicated factor (values < 1 =  contraction), while a shift is defined by the **Offset (5)**, according to a linear transformation.
 
+A dot plot will be generated
+
+<img width="620" height="103" alt="immagine" src="https://github.com/user-attachments/assets/6a44895d-c919-40a3-b21c-16bb8317ec6f" />
+
+**NB.** The macro always activate this image as reference for every operation. When the cursor will be inside the graph area (red rectangle) ImageJ will automatically activate the Rectangle Selection option in the toolbar, while outside this area the Hand Scrolling tool will work. To activate ImageJ operations on other open images please press the **Pause** button (as indicated in the figure) to operate outside of the macro in standard conditions.
 
 
 
