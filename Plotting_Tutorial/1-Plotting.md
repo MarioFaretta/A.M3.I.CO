@@ -70,6 +70,8 @@ When the mouse is inside the graph, and the Rectangle Selection tool in the tool
 
 <img width="1485" height="1125" alt="immagine" src="https://github.com/user-attachments/assets/53166ec5-260e-4d48-a717-b6ad4c3e55fe" />
 
+If the "Caps Lock" is pressed the Polygon, instead of the Rectangle, Tool will be selected to allow drawing of free-form regions.
+
 
 
 
