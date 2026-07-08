@@ -44,7 +44,7 @@ By clicking on the **Axis Button (1)** define the X and Y axis in the graph. Spe
 
 A dot plot will be generated
 
-<img width="620" height="103" alt="immagine" src="https://github.com/user-attachments/assets/6a44895d-c919-40a3-b21c-16bb8317ec6f" />
+<img width="973" height="1125" alt="immagine" src="https://github.com/user-attachments/assets/2aca70e0-b220-4e47-9448-1e97bcf4ed67" />
 
 **NB.** The macro always activate this image as reference. Every operation in ImageJ will be applied to this image even if other ones are open since it will remain as active image, even if you switch to other ones. To activate ImageJ operations on other open images please press the **Pause** button (as indicated in the figure) to pause the macro and to work in standard conditions .When the cursor will be inside the graph area (red rectangle) ImageJ will automatically activate the Rectangle Selection option in the toolbar, while outside this area the Hand Scrolling tool will work. 
 
