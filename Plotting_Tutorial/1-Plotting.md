@@ -32,7 +32,16 @@ The number of the available **Ratiometric Channels** is reported in the window a
 
 In the same window, the "Calculate Stage Positions" option will activate the retrieval of the microscope-stage coordinates on all the detected events. The position retrieval will also be available later even if this option will not be activated.
 
-NB. Stage Coordinates retrieval can be quite time consuming if a high number of events has been detected. Except for particular cases, it is more convenient to leave the option unchecked 
+NB. Stage Coordinates retrieval can be quite time consuming if a high number of events has been detected. Except for particular cases, it is more convenient to leave the option unchecked
+
+Time consumption for the loading of the results will depend on the number of detected events, channels, presence and number of subcompartments with the amount of identified objects. For this reason, an accurate choice of the really useful data to be displayed is desirable both in the settings in the **Union-Analysis** and in the selection of the **Computed Parameters** avoiding the loading of later unused information.
+
+At the end of the loading phase, the main window will appear showing the layout of an empty dotplot
+
+<img width="1080" height="1125" alt="immagine" src="https://github.com/user-attachments/assets/53af396b-00a9-4e5c-b417-81e45a38b6ee" />
+
+
+
 
 
 
