@@ -32,9 +32,9 @@ The number of the available **Ratiometric Channels** is reported in the window a
 
 In the same window, the "Calculate Stage Positions" option will activate the retrieval of the microscope-stage coordinates on all the detected events. The position retrieval will also be available later even if this option will not be activated.
 
-NB. Stage Coordinates retrieval can be quite time consuming if a high number of events has been detected. Except for particular cases, it is more convenient to leave the option unchecked
+NB. Stage Coordinates retrieval can be quite time consuming if a high number of events has been detected. Except for particular cases, it is more convenient to leave the option unchecked in order to retrieve stage coordinates on a limited number of targets.
 
-Time consumption for the loading of the results will depend on the number of detected events, channels, presence and number of subcompartments with the amount of identified objects. For this reason, an accurate choice of the really useful data to be displayed is desirable both in the settings in the **Union-Analysis** and in the selection of the **Computed Parameters** avoiding the loading of later unused information.
+Time consumption for data loading will depend on the number of detected events, channels, presence and number of subcompartments with the relative amount of identified objects. For this reason, an accurate choice of the really useful data to be displayed is desirable both in the settings in the **Union-Analysis** and in the selection of the **Computed Parameters** avoiding the loading of later unused information.
 
 At the end of the loading phase, the main window will appear showing the layout of an empty dotplot
 
@@ -46,7 +46,7 @@ A [**Dot Plot**](1.2-Dot_Plot_and_Histogram.md) will be generated
 
 <img width="973" height="1125" alt="immagine" src="https://github.com/user-attachments/assets/2aca70e0-b220-4e47-9448-1e97bcf4ed67" />
 
-**NB.** The macro always activate this image as reference. Every operation in ImageJ will be applied to this image even if other ones are open since it will remain as active image, even if you switch to other ones. To activate ImageJ operations on other open images please press the **Pause** button (as indicated in the figure) to pause the macro and to work in standard conditions .When the cursor will be inside the graph area (red rectangle) ImageJ will automatically activate the Rectangle Selection option in the toolbar, while outside this area the Hand Scrolling tool will work. 
+**NB.** The macro always activate this image as reference. Every operation in ImageJ will be applied to this image even if other ones are open since it will remain as active image, even if you try to switch to other ones. To activate ImageJ operations on other open images please press the **Pause** button (as indicated in the figure) to pause the macro and to work in standard conditions. When the cursor will be inside the graph area (red rectangle) ImageJ will automatically activate the Rectangle Selection option in the toolbar, while outside this area the Hand Scrolling tool will work. 
 
 With the **"Pictures"** button
 
@@ -58,7 +58,7 @@ some crosses will appear: by clicking on their center the corresponding cell in 
 
 <img width="955" height="1125" alt="immagine" src="https://github.com/user-attachments/assets/fefc2f14-7081-4112-bd9b-9e79b34f4193" />
 
-One shows the original whole field of view
+The first image panel shows the original field of view
 
 <img width="1233" height="859" alt="immagine" src="https://github.com/user-attachments/assets/9aa0b5e2-47af-4126-90d8-0248402f66ad" />
 
