@@ -82,7 +82,7 @@ Create new Dot Plots or Histograms by the [**New Plot**](1.2-Dot_Plot_and_Histog
 
 As clarified in the relative section in the [**Union_Tutorial**](https://github.com/MarioFaretta/A.M3.I.CO/blob/Tutorial/Union_Tutorial/1.2.6-Subcompartments.md), it's possible to segment and analyze **Subcompartments** and treat them as properties of the main **Cell** or as independent objects by selecting the [**Compartment**] button at the bottom of the main dot plot window.
 
-As for the **Cell** population, dot plots and histograms with regions can be created and statistics calculated. [**Gates**](1.3-Regions_and_Gates.md#subcompartmentgates) can eliminate or single event of the subcompartment or excluding the cells (and consequently also events of other subcompartments if present) from the population,
+As for the **Cell** population, dot plots and histograms with regions can be created and statistics calculated. [**Subcompartment Gates**](1.3-Regions_and_Gates.md#subcompartmentgates) can eliminate or single event of the subcompartment or excluding the cells (and consequently also events of other subcompartments if present) from the population.
 
 
 
