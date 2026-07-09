@@ -84,6 +84,9 @@ As clarified in the relative section in the [**Union_Tutorial**](https://github.
 
 As for the **Cell** population, dot plots and histograms with regions can be created and statistics calculated. [**Subcompartment Gates**](1.3-Regions_and_Gates.md#subcompartmentgates) can eliminate either single events of the subcompartment or the cells containing it (and consequently also events of other subcompartments if present) from the population. Consider that the number of events in a subcompartments can be much higher than the one of the cells. Consequently the refresh operations may require quite a long time.
 
+<img width="1109" height="841" alt="immagine" src="https://github.com/user-attachments/assets/81ba5448-4e3c-45f6-b80d-5f1224115f03" />
+
+
 
 
 
