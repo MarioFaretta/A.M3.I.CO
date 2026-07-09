@@ -74,7 +74,7 @@ If the "Caps Lock" key is pressed the Polygon, instead of the Rectangle, Tool wi
 
 Apply a [**Gate**](1.3-Regions_and_Gates.md#gates) to exclude unwanted events from the population to be analyzed.
 
-Create new Dot Plots or Histograms by the [**New Plot**](1.2-Dot_Plot_and_Histogram.md) button or by the [**DP List**](1.2-Dot_Plot_and_Histogram.md#dotplotlist) command. Move within the resulting stack with the **DP Slice** button or by scrolling the ImageJ bar at the bottom. In this case the DP selection window will appear anyway to address the slice of interest.
+Create new Dot Plots or Histograms by the [**New Plot**](1.2-Dot_Plot_and_Histogram.md) button or by the [**DP List**](1.2-Dot_Plot_and_Histogram.md#dot_plot_list) command. Move within the resulting stack with the **DP Slice** button or by scrolling the ImageJ bar at the bottom. In this case the DP selection window will appear anyway to address the slice of interest.
 
 
 
