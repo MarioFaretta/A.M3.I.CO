@@ -80,7 +80,7 @@ Create new Dot Plots or Histograms by the [**New Plot**](1.2-Dot_Plot_and_Histog
 
 **NB.** By selecting a region in the ROI manager, the slice selection will be automatically activated since the ROI information contain the slice number. To freely navigate to adjust region position, pause the macro with the corresponding button and the reposition and update each region. When the macro restarts remember to press **Update DP (3)** button to update all the dot plots in the stack.
 
-
+As clarified in the relative section in the [**Union_Tutorial**](), it's possible to segment and analyze **Subcompartments** and treat them as properties of the main **Cell** or as independent objects.
 
 
 
