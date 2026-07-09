@@ -66,7 +66,7 @@ while the second is a crop of the selected cell.
 
 <img width="1405" height="947" alt="immagine" src="https://github.com/user-attachments/assets/25077033-3e75-4587-976c-1d42cc3e56e3" />
 
-When the mouse is inside the graph, and the Rectangle Selection tool in the toolbar is consequently activated, it's possible to draw [**Regions**](1.3-Regions_and_Gates.md/##regions) in the dot plot to select the contained events. Then press the "Set Region" Button (1) to store its coordinate. The region will appear in red in the dot plot, will be added to the ImageJ ROI Manager and stored in an internal [**Region List**](1.3-Regions_and_Gates.md/##regionlist).
+When the mouse is inside the graph, and the Rectangle Selection tool in the toolbar is consequently activated, it's possible to draw [**Regions**](1.3-Regions_and_Gates.md#regions) in the dot plot to select the contained events. Then press the "Set Region" Button (1) to store its coordinate. The region will appear in red in the dot plot, will be added to the ImageJ ROI Manager and stored in an internal [**Region List**](1.3-Regions_and_Gates.md#regionlist).
 
 <img width="1485" height="1125" alt="immagine" src="https://github.com/user-attachments/assets/53166ec5-260e-4d48-a717-b6ad4c3e55fe" />
 
