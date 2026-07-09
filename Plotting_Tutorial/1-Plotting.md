@@ -72,7 +72,7 @@ When the mouse is inside the graph, and the Rectangle Selection tool in the tool
 
 If the "Caps Lock" key is pressed the Polygon, instead of the Rectangle, Tool will be selected to allow drawing of free-form regions.
 
-Apply a [**Gate**](1.3-Regions_and_Gates.md##gates) to exclude unwanted events from the population to be analyzed.
+Apply a [**Gate**](1.3-Regions_and_Gates.md#gates) to exclude unwanted events from the population to be analyzed.
 
 
 
