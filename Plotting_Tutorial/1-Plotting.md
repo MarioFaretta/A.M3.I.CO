@@ -86,6 +86,7 @@ The [**Show Statistics**](1.4-Statistics) command allows to calculate the statis
 
 <img width="1208" height="943" alt="immagine" src="https://github.com/user-attachments/assets/68df992f-2577-4aa5-9042-abf4b8e245dc" />
 
+Besidis mean values of the parameters, it's possible to retrieve images of representative cells for each region, to extrapulate **Stage Coordinates** for a targeted acquisition of the event in the region, or to export images of the mask of the cells for eventually using them with other softwares.
 
 
 
