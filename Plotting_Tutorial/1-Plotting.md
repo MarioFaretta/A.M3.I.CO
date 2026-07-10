@@ -86,7 +86,11 @@ The [**Show Statistics**](1.4-Statistics) command allows to calculate the statis
 
 <img width="1208" height="943" alt="immagine" src="https://github.com/user-attachments/assets/68df992f-2577-4aa5-9042-abf4b8e245dc" />
 
-Besidis mean values of the parameters, it's possible to retrieve images of representative cells for each region, to extrapulate **Stage Coordinates** for a targeted acquisition of the event in the region, or to export images of the mask of the cells for eventually using them with other softwares.
+The **Limits to DP Parameters** option allows to limit statistics to the Axis Parameters of the Dot Plot. 
+Beside mean values,  it's possible to retrieve images of representative cells for each region, to extrapulate **Stage Coordinates** for a targeted acquisition of the event in the region, or to export images of the mask of the cells for eventually using them with other softwares. In this case, a dedicated folder will be created containing the images of the masks relative to the selected region (the number of images depends on the specified  cell number to be retrieved in the Drop down menù for each region).
+
+<img width="1594" height="557" alt="immagine" src="https://github.com/user-attachments/assets/e00ea461-485c-4131-8890-f79ce297a0fb" />
+
 
 
 
