@@ -82,7 +82,10 @@ As for the **Cell** population, dot plots and histograms with regions can be cre
 
 Stack of dot plots are useful for the analysis of multiple files from the same **Union** analysis (e.g. time points of experiments, doses of drug treatments) since, once created, they can be applied to other files by the **Load Data** button. When a new file is loaded, remember to adjust regions as described above before applying gates and update dot plots.
 
-The [**Show Statistics**] command allows to calculate the statistics relative to the defined regions
+The [**Show Statistics**](1.4-Statistics) command allows to calculate the statistics relative to the defined regions
+
+<img width="1208" height="943" alt="immagine" src="https://github.com/user-attachments/assets/68df992f-2577-4aa5-9042-abf4b8e245dc" />
+
 
 
 
