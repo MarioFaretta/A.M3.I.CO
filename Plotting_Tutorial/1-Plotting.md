@@ -80,8 +80,9 @@ As clarified in the relative section in the [**Union_Tutorial**](https://github.
 
 As for the **Cell** population, dot plots and histograms with regions can be created and statistics calculated. [**Subcompartment Gates**](1.3-Regions_and_Gates.md#subcompartmentgates) can eliminate either single events of the subcompartment or the cells containing them (and consequently also events of other subcompartments if present) from the population. Consider that the number of events in a subcompartment can be much higher than the one of the cells. Consequently the refresh operations may require quite a long time.
 
-<img width="1109" height="841" alt="immagine" src="https://github.com/user-attachments/assets/81ba5448-4e3c-45f6-b80d-5f1224115f03" />
+Stack of dot plots are useful for the analysis of multiple files from the same **Union** analysis (e.g. time points of experiments, doses of drug treatments) since, once created, they can be applied to other files by the **Load Data** button. When a new file is loaded, remember to adjust regions as described above before applying gates and update dot plots.
 
+The [**Show Statistics**] command allows to calculate the statistics relative to the defined regions
 
 
 
