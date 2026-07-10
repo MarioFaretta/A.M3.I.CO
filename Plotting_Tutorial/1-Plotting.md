@@ -97,7 +97,8 @@ Regions define quantitative criteria to identify a phenotype. It's possible to c
 
 The resulting 5D images show in the channels - one for every selected region (by clicking on the square in the **Control Panel**) - the distribution of the resulting subpopulations. The last dp is just the starting one with all the events (the very last channel just displays the axis). In the reported example the S phase population is marked in red, with all the cells shown in green. The overlap demonstrates that very damaged G1 cells do not enter the replicating phase (green dots on left upper part of the graph) while G2 cells repair their damaged genome before mitosis (G2 green cells occupy the lower part of the distribution).
 
-<img width="1522" height="736" alt="immagine" src="https://github.com/user-attachments/assets/8ae9d4fa-36ac-4426-9519-a3e50db80e00" />
+<img width="1798" height="505" alt="immagine" src="https://github.com/user-attachments/assets/3a98cbe8-f1ab-4293-bee3-8e4a0940f7fe" />
+
 
 
 
