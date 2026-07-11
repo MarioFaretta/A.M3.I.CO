@@ -76,7 +76,7 @@ If the "Caps Lock" key is pressed the Polygon, instead of the Rectangle, Tool wi
 
 Apply a [**Gate**](1.3-Regions_and_Gates.md#gates) to exclude unwanted events from the population to be analyzed.
 
-Create new Dot Plots or Histograms by the [**New Plot**](1.2-Dot_Plot_and_Histogram.md) button or by the [**DP List**](1.2-Dot_Plot_and_Histogram.md#dot-plot-list) command. Move within the resulting stack with the **DP Slice (1)** button or by scrolling the ImageJ bar **(2)** at the bottom. In this case the DP selection window will appear anyway to address the slice of interest. 
+Create new Dot Plots or Histograms by the **New Plot** button or by the [**DP List**](1.2-Dot_Plot_and_Histogram.md#dot-plot-list) command. Move within the resulting stack with the **DP Slice (1)** button or by scrolling the ImageJ bar **(2)** at the bottom. In this case the DP selection window will appear anyway to address the slice of interest. 
 
 <img width="1458" height="771" alt="immagine" src="https://github.com/user-attachments/assets/f4982e5b-8888-46a4-9086-fafdfe6f8a00" />
 
@@ -84,7 +84,7 @@ Create new Dot Plots or Histograms by the [**New Plot**](1.2-Dot_Plot_and_Histog
 
 As clarified in the relative section in the [**Union_Tutorial**](https://github.com/MarioFaretta/A.M3.I.CO/blob/Tutorial/Union_Tutorial/1.2.6-Subcompartments.md), it's possible to segment and analyze **Subcompartments** and treat them as properties of the main **Cell** or as independent objects by selecting the [**Compartment**] button at the bottom of the main dot plot window.
 
-As for the **Cell** population, dot plots and histograms with regions can be created and statistics calculated. [**Subcompartment Gates**](1.3-Regions_and_Gates.md#subcompartmentgates) can eliminate either single events of the subcompartment or the cells containing them (and consequently also events of other subcompartments if present) from the population. Consider that the number of events in a subcompartment can be much higher than the one of the cells. Consequently the refresh operations may require quite a long time.
+As for the **Cell** population, dot plots and histograms with regions can be created and statistics calculated. [**Subcompartment Gates**](1.3-Regions_and_Gates.md#subcompartment-gates) can eliminate either single events of the subcompartment or the cells containing them (and consequently also events of other subcompartments if present) from the population. Consider that the number of events in a subcompartment can be much higher than the one of the cells. Consequently the refresh operations may require quite a long time.
 
 Stack of dot plots are useful for the analysis of multiple files from the same **Union** analysis (e.g. time points of experiments, doses of drug treatments) since, once created, they can be applied to other files by the **Load Data** button. When a new file is loaded, remember to adjust regions as described above before applying gates and update dot plots.
 
