@@ -114,7 +114,7 @@ Data relative to a targeted subpopulation can also be extrapulated from the orig
 
 # Distance gating
 
-As a tool to improve SMLM analysis data we recently upgraded the [**Distance Gating**](1.6-Distance_Gating.md) procedure to perform nearest neighbor distance calculation on up to three different compartments. Obects in subcompartments can be filtered according to the relative distances and the results used to obtain statistics on the **Cell** population.
+As a tool to improve SMLM analysis data we recently upgraded the [**Distance Gating**](1.6-Distance_Gating.md) procedure to perform nearest neighbor distance calculation on up to three different compartments. Obects in subcompartments can be filtered according to the relative distances and the results used to obtain statistics on the **Cell** population. This command can manage up to three subcompartments to select events according to the relative spatial positions.
 
 
 
