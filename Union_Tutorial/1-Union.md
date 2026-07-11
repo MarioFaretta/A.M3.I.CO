@@ -7,7 +7,7 @@ Union employs the [Convolve 3D](https://www.optinav.info/download/Convolve_3D.cl
 
 ## How to use it
 ### Launch Union
-Open ImageJ and from the plugin list launch AM<sup>3</sup>ICO_Union. Select the folder containing the images to be analyzed.
+Open ImageJ and, from the plugin list, launch AMICO_Union. Select the folder containing the images to be analyzed.
 <img width="1302" height="776" alt="immagine" src="https://github.com/user-attachments/assets/50bd189b-1fe3-4647-bc83-05429031b014" />
 In the main window select:
 <img width="1036" height="607" alt="immagine" src="https://github.com/user-attachments/assets/9764af70-8667-465c-bcd9-fc70fe55c2e2" />
