@@ -36,6 +36,15 @@ The macros were tested on ImageJ 1.53n, JAVA 1.8.0_172 (64-bit) on Windows 10.
 
 <img width="600" height="432" alt="immagine" src="https://github.com/user-attachments/assets/6bb3bfaf-fd92-459c-b921-0903128d6dad" />
 
+## Contributions
+
+A.M<sup>3</sup>.I.CO is composed of protocols for sample preparation and experimental assays for widefield, confocal and super-resolution microscopy, procedures for automated image collection and software tools for data analysis. It has been created with the contribution of:
+
+- Mario Faretta: Conception and development of the pipelines and coding of the software packages (acquisition and analysis)
+- Laura Furia: Design and validation of experimental assays
+- Simone Pelicci: Software validation. Creation of data analysis tools.
+
+
 
 ## References:
 Furia, Laura, Pier Giuseppe Pelicci, Mario Faretta. 2013a. «A Computational Platform for Robotized Fluorescence Microscopy (I): High-Content Image-Based Cell-Cycle Analysis». Cytometry Part A 83A (4): 333–43. https://doi.org/10.1002/cyto.a.22266.
