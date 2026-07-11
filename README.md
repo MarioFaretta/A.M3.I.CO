@@ -40,7 +40,7 @@ The macros were tested on ImageJ 1.53n, JAVA 1.8.0_172 (64-bit) on Windows 10.
 
 A.M<sup>3</sup>.I.CO is composed of protocols for sample preparation and experimental assays for widefield, confocal and super-resolution microscopy, procedures for automated image collection and software tools for data analysis. It has been created with the contribution of:
 
-- **Mario Faretta** : Conception and development of the pipelines and coding of the software packages (acquisition and analysis)
+- **Mario Faretta** : Conception and development of the pipelines and coding of software packages (acquisition and analysis)
 - **Laura Furia**: Design and validation of experimental assays
 - **Simone Pelicci**: Software validation. Creation of data analysis tools.
 
