@@ -24,6 +24,8 @@ and then the parameters for each **Subcompartment**.
 
 <img width="966" height="466" alt="immagine" src="https://github.com/user-attachments/assets/7ba02ee2-a752-4e5f-afa3-c92ee490d0a5" />
 
+# Additional Channels
+
 It is also possible to compute new "Derived Channels"
 
 <img width="930" height="457" alt="immagine" src="https://github.com/user-attachments/assets/62ea86f8-acc3-482f-a37d-ea5881054e43" />
@@ -41,6 +43,8 @@ At the end of the loading phase, the main window will appear showing the layout 
 <img width="1080" height="1125" alt="immagine" src="https://github.com/user-attachments/assets/6b233ade-65ab-42e2-aa31-ba6f8244a79f" />
 
 By clicking on the **Axis Button (1)** define the X and Y axis in the graph. Specify the Minimum and Maximum values for the axis scale by the **Manual (2)** buttons. **Auto (3)** option will set the limits to the minimum or maximum values detected amog all the loaded events. **voltage (4)** will linearly dilate the scale by the indicated factor (values < 1 =  contraction), while a shift is defined by the **Offset (5)**, according to a linear transformation.
+
+# Dot Plots and Histograms
 
 A [**Dot Plot**](1.2-Dot_Plot_and_Histogram.md) will be generated
 
@@ -62,6 +66,8 @@ while the second is a crop of the selected cell.
 
 <img width="1405" height="947" alt="immagine" src="https://github.com/user-attachments/assets/25077033-3e75-4587-976c-1d42cc3e56e3" />
 
+# Regions and Gates
+
 When the mouse is inside the graph, and the Rectangle Selection tool in the toolbar is consequently activated, it's possible to draw [**Regions**](1.3-Regions_and_Gates.md#regions) in the dot plot to select the contained events. Then press the "Set Region" Button (1) to store its coordinate. The region will appear in red in the dot plot, will be added to the ImageJ ROI Manager and stored in an internal [**Region List**](1.3-Regions_and_Gates.md#regionlist).
 
 <img width="1485" height="1125" alt="immagine" src="https://github.com/user-attachments/assets/53166ec5-260e-4d48-a717-b6ad4c3e55fe" />
@@ -82,11 +88,16 @@ As for the **Cell** population, dot plots and histograms with regions can be cre
 
 Stack of dot plots are useful for the analysis of multiple files from the same **Union** analysis (e.g. time points of experiments, doses of drug treatments) since, once created, they can be applied to other files by the **Load Data** button. When a new file is loaded, remember to adjust regions as described above before applying gates and update dot plots.
 
+# Statistics
+
 The [**Show Statistics**](1.4-Statistics) command allows to calculate the statistics relative to the defined regions
 
 <img width="1208" height="943" alt="immagine" src="https://github.com/user-attachments/assets/68df992f-2577-4aa5-9042-abf4b8e245dc" />
 
-The **Limits to DP Parameters** option allows to limit statistics to the Axis Parameters of the Dot Plot. 
+The **Limits to DP Parameters** option allows to limit statistics to the Axis Parameters of the Dot Plot.
+
+ # Retrieving Stage Coordinates
+
 Beside mean values,  it's possible to retrieve images of representative cells for each region, to extrapulate [**Stage Coordinates**](1.5-Stage:Coordinates.md) for a targeted acquisition of the event in the region, or to export images of the mask of the cells for eventually using them with other softwares. In this case, a dedicated folder will be created containing the images of the masks relative to the selected region (the number of images depends on the specified  cell number to be retrieved in the Drop down menu for each region).
 
 <img width="1594" height="557" alt="immagine" src="https://github.com/user-attachments/assets/e00ea461-485c-4131-8890-f79ce297a0fb" />
@@ -100,6 +111,9 @@ The resulting 5D images show in the channels - one for every selected region (by
 <img width="1798" height="505" alt="immagine" src="https://github.com/user-attachments/assets/3a98cbe8-f1ab-4293-bee3-8e4a0940f7fe" />
 
 Data relative to a targeted subpopulation can also be extrapulated from the original file by activating a gate on the region of interest. The "Export" command select the rows containing all the fields relative to the cells in the gate and store them  in a new file. This operation is particularly useful for selecting low represented fraction of events inside big populations. Reloading this newly generated file will allow faster analysis times thanks to the reduction of the total number of events. The command also introduce the possibility to split single cell data in different files. For example, we adopted this trick when working on Single Molecule Localization Microscopy (SMLM) data. In this kind of experiments, analysed images containes few highly resolved cells with several thousands of events detected in subcompartments. Splitting files allows statistics calculations on a single cell basis for the targeted channels and subcompartments.
+
+# Distance gating
+
 As a tool to improve SMLM analysis data we recently upgraded the [**Distance Gating**](1.6-Distance_Gating.md) procedure to perform nearest neighbor distance calculation on up to three different compartments. Obects in subcompartments can be filtered according to the relative distances and the results used to obtain statistics on the **Cell** population.
 
 
