@@ -19,14 +19,14 @@ The Automated Microscopy for Image Cytometry A.M<sup>3</sup>.I.CO pipeline is co
 Macro to Browse through acquired images, set up of Segmentation parameters and analysis of particles, and intracellular subcompartment (e.g. foci) recognition. Results are stored in a tab-txt file. The macro works on single or multi channel .nd2, OME.tiff files and other image formats.
 
 Source:
-[AMICO_Union.txt](Sources/AMICO_Plotting_15042026.ijm)
+[AMICO_Union.txt]()
 
 ## [AMICO_Plotting](https://github.com/MarioFaretta/A.M3.I.CO/blob/Tutorial/Plotting_Tutorial/1-Plotting.md)
 
 Macro to analyze the results of AMICO_Union Image Analysis producing Dot Plots and Histograms. It is possible to define Regions of Interest and combine them into logical gates as normally done in flow-cytometry.
 
 Source:
-[AMICO_Plotting.txt](https://github.com/MarioFaretta/AMICO/blob/main/AMICO_Plotting.txt)
+[AM3ICO_Plotting](Sources/AMICO_Plotting_15042026.ijm)
 
 # -----------------------------------------------------------------
 The site is under construction. For more information take a look at the references below or write to mario.faretta@ieo.it
