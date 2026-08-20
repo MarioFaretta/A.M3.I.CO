@@ -34,7 +34,7 @@ The macros were tested on ImageJ 1.53n, JAVA 1.8.0_172 (64-bit) on Windows 10.
 
 ## History
 
-<img width="600" height="432" alt="immagine" src="https://github.com/user-attachments/assets/6bb3bfaf-fd92-459c-b921-0903128d6dad" />
+<img width="983" height="627" alt="immagine" src="https://github.com/user-attachments/assets/d6426c7b-0b7f-4af8-a9b7-8d31907c153a" />
 
 ## Contributions
 
