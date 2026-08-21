@@ -55,7 +55,7 @@ Furia, Laura, Piergiuseppe Pelicci, Mario Faretta. 2014a. «Confocal Microscopy 
 
 Furia, Laura, Piergiuseppe Pelicci, Mario Faretta. 2014b. «High‐Resolution Cytometry for High‐Content Cell Cycle Analysis». Current Protocols in Cytometry 70 (1). https://doi.org/10.1002/0471142956.cy0741s70.
 
-Furia, Laura, Simone Pelicci, Federica Perillo, et al. 2022. «Automated Multimodal Fluorescence Microscopy for Hyperplex Spatial-Proteomics: Coupling Microfluidic-Based Immunofluorescence to High Resolution, High Sensitivity, Three-Dimensional Analysis of Histological Slides». Frontiers in Oncology 12 (ottobre): 960734. https://doi.org/10.3389/fonc.2022.960734.
+Furia, Laura, Simone Pelicci, Federica Perillo, et al. 2022. «Automated Multimodal Fluorescence Microscopy for Hyperplex Spatial-Proteomics: Coupling Microfluidic-Based Immunofluorescence to High Resolution, High Sensitivity, Three-Dimensional Analysis of Histological Slides». Frontiers in Oncology 12 (2022): 960734. https://doi.org/10.3389/fonc.2022.960734.
 
 Furia, Laura, Simone Pelicci, Mirco Scanarini, Pier Giuseppe Pelicci, Mario Faretta. 2022. «From Double-Strand Break Recognition to Cell-Cycle Checkpoint Activation: High Content and Resolution Image Cytometry Unmasks 53BP1 Multiple Roles in DNA Damage Response and P53 Action». International Journal of Molecular Sciences 23 (17): 10193. https://doi.org/10.3390/ijms231710193.
 
