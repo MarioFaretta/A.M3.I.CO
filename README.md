@@ -29,6 +29,13 @@ Source:
 [AM3ICO_Plotting](Sources/AM3ICO_Plotting_15042026.ijm)
 
 # -----------------------------------------------------------------
+
+# Automated multi resolution data collection
+
+The general procedure is explained in the references below (in particular, Furia et al. Cytometry 2013, Furia et al. Front. Onc. 2022, Pelicci et al. Cells 2023, Pelicci et al. Laser Microdissection, Methods Molecular Biology, 2026).
+Here you find the JOBs for the NIS Elements control software that can be adapted for motorized Nikon microscopes (developed for a Ti2E inverted motorized microscope as described in our works).
+
+# -----------------------------------------------------------------
 The site is under construction. For more information take a look at the references below or write to mario.faretta@ieo.it
 The macros were tested on ImageJ 1.53n, JAVA 1.8.0_172 (64-bit) on Windows 10.
 
