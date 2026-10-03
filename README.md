@@ -33,7 +33,7 @@ Source:
 # Automated multi resolution data collection
 
 The general procedure is explained in the references below (in particular, Furia et al. Cytometry 2013, Furia et al. Front. Onc. 2022, Pelicci et al. Cells 2023, Pelicci et al. Laser Microdissection, Methods Molecular Biology, 2026).
-Here you find the JOBs for the NIS Elements control software that can be adapted for motorized Nikon microscopes (developed for a Ti2E inverted motorized microscope as described in our works).
+Here you find a description  and the source of the [JOB](https://github.com/MarioFaretta/A.M3.I.CO/blob/Tutorial/NikonJOB/ScanStage.md) for the NIS Elements control software that can be adapted for motorized Nikon microscopes (developed for a Ti2E inverted motorized microscope as described in our works).
 
 # -----------------------------------------------------------------
 The site is under construction. For more information take a look at the references below or write to mario.faretta@ieo.it
