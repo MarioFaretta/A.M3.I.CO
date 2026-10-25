@@ -54,22 +54,23 @@ A.M<sup>3</sup>.I.CO is composed of protocols for sample preparation and experim
 
 
 ## References:
-Furia, Laura, Pier Giuseppe Pelicci, Mario Faretta. 2013a. «A Computational Platform for Robotized Fluorescence Microscopy (I): High-Content Image-Based Cell-Cycle Analysis». Cytometry Part A 83A (4): 333–43. https://doi.org/10.1002/cyto.a.22266.
 
-Furia, Laura, Pier Giuseppe Pelicci, Mario Faretta. 2013b. «A Computational Platform for Robotized Fluorescence Microscopy (II): DNA Damage, Replication, Checkpoint Activation, and Cell Cycle Progression by High-Content High-Resolution Multiparameter Image-Cytometry». Cytometry Part A 83A (4): 344–55. https://doi.org/10.1002/cyto.a.22265.
+Furia L, Pelicci PG, Faretta M. A computational platform for robotized fluorescence microscopy (I): high-content image-based cell-cycle analysis. Cytometry A. 2013 Apr;83(4):333-43. doi: 10.1002/cyto.a.22266.
 
-Furia, Laura, Piergiuseppe Pelicci, Mario Faretta. 2014a. «Confocal Microscopy for High‐Resolution and High‐Content Analysis of the Cell Cycle». Current Protocols in Cytometry 70 (1). https://doi.org/10.1002/0471142956.cy0742s70.
+Furia L, Pelicci PG, Faretta M. A computational platform for robotized fluorescence microscopy (II): DNA damage, replication, checkpoint activation, and cell cycle progression by high-content high-resolution multiparameter image-cytometry. Cytometry A. 2013 Apr;83(4):344-55. doi: 10.1002/cyto.a.22265.
 
-Furia, Laura, Piergiuseppe Pelicci, Mario Faretta. 2014b. «High‐Resolution Cytometry for High‐Content Cell Cycle Analysis». Current Protocols in Cytometry 70 (1). https://doi.org/10.1002/0471142956.cy0741s70.
+Furia L, Pelicci P, Faretta M. Confocal microscopy for high-resolution and high-content analysis of the cell cycle. Curr Protoc Cytom. 2014 Oct 1;70:7.42.1-14. doi: 10.1002/0471142956.cy0742s70.
 
-Furia, Laura, Simone Pelicci, Federica Perillo, et al. 2022. «Automated Multimodal Fluorescence Microscopy for Hyperplex Spatial-Proteomics: Coupling Microfluidic-Based Immunofluorescence to High Resolution, High Sensitivity, Three-Dimensional Analysis of Histological Slides». Frontiers in Oncology 12 (2022): 960734. https://doi.org/10.3389/fonc.2022.960734.
+Furia L, Pelicci P, Faretta M. High-resolution cytometry for high-content cell cycle analysis. Curr Protoc Cytom. 2014 Oct 1;70:7.41.1-15. doi: 10.1002/0471142956.cy0741s70.
 
-Furia, Laura, Simone Pelicci, Mirco Scanarini, Pier Giuseppe Pelicci, Mario Faretta. 2022. «From Double-Strand Break Recognition to Cell-Cycle Checkpoint Activation: High Content and Resolution Image Cytometry Unmasks 53BP1 Multiple Roles in DNA Damage Response and P53 Action». International Journal of Molecular Sciences 23 (17): 10193. https://doi.org/10.3390/ijms231710193.
+Furia L, Pelicci S, Perillo F, Bolognesi MM, Pelicci PG, Facciotti F, Cattoretti G, Faretta M. Automated multimodal fluorescence microscopy for hyperplex spatial-proteomics: Coupling microfluidic-based immunofluorescence to high resolution, high sensitivity, three-dimensional analysis of histological slides. Front Oncol. 2022 Oct 13;12:960734. doi: 10.3389/fonc.2022.960734.
 
-Pelicci, Simone, Laura Furia, Pier Giuseppe Pelicci, Mario Faretta. 2023. «Correlative Multi-Modal Microscopy: A Novel Pipeline for Optimizing Fluorescence Microscopy Resolutions in Biological Applications». Cells 12 (3): 3. https://doi.org/10.3390/cells12030354.
+Furia L, Pelicci S, Scanarini M, Pelicci PG, Faretta M. From Double-Strand Break Recognition to Cell-Cycle Checkpoint Activation: High Content and Resolution Image Cytometry Unmasks 53BP1 Multiple Roles in DNA Damage Response and p53 Action. Int J Mol Sci. 2022 Sep 5;23(17):10193. doi: 10.3390/ijms231710193.
 
-Pelicci, Simone, Laura Furia, Pier Giuseppe Pelicci, Mario Faretta. 2024. «From Cell Populations to Molecular Complexes: Multiplexed Multimodal Microscopy to Explore P53-53BP1 Molecular Interaction». International Journal of Molecular Sciences 25 (9): 9. https://doi.org/10.3390/ijms25094672.
+Pelicci S, Furia L, Pelicci PG, Faretta M. Correlative Multi-Modal Microscopy: A Novel Pipeline for Optimizing Fluorescence Microscopy Resolutions in Biological Applications. Cells. 2023 Jan 17;12(3):354. doi: 10.3390/cells12030354.
 
-Pelicci, Simone, Laura Furia, Francesco Spadari, et al. 2026. «Automated Intelligent Microscopy for Phenotype Identification, Spatial Localization, and Retargeting of Cells». In Laser Capture Microdissection: Methods and Protocols, a cura di Roberta Noberini. Springer US. https://doi.org/10.1007/978-1-0716-5154-4_15.
+Pelicci S, Furia L, Pelicci PG, Faretta M. From Cell Populations to Molecular Complexes: Multiplexed Multimodal Microscopy to Explore p53-53BP1 Molecular Interaction. Int J Mol Sci. 2024 Apr 25;25(9):4672. doi: 10.3390/ijms25094672.
 
+Pelicci S, Furia L, Spadari F, Grigolato R, Calabrese L, Girolami I, Faretta M. Automated Intelligent Microscopy for Phenotype Identification, Spatial Localization, and Retargeting of Cells. Methods Mol Biol. 2026;3015:193-209. doi: 10.1007/978-1-0716-5154-4_15.
 
+Pelicci S, Furia L, Ciacci L, Gravina T, Pelicci PG, Dellino GI, Faretta M. 53BP1 as a cofactor in the activation of the p53-family transcriptional program: A correlative multimodal microscopy approach. Sci Adv. 2026 Oct 23;12(43):eaeh6993. doi: 10.1126/sciadv.aeh6993. 
