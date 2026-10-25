@@ -60,9 +60,9 @@ Furia L, Pelicci PG, Faretta M. A computational platform for robotized fluoresce
 
 Furia L, Pelicci PG, Faretta M. A computational platform for robotized fluorescence microscopy (II): DNA damage, replication, checkpoint activation, and cell cycle progression by high-content high-resolution multiparameter image-cytometry. Cytometry A. 2013 Apr;83(4):344-55. doi: 10.1002/cyto.a.22265.
 
-Furia L, Pelicci P, Faretta M. Confocal microscopy for high-resolution and high-content analysis of the cell cycle. Curr Protoc Cytom. 2014 Oct 1;70:7.42.1-14. doi: 10.1002/0471142956.cy0742s70.
-
 Furia L, Pelicci P, Faretta M. High-resolution cytometry for high-content cell cycle analysis. Curr Protoc Cytom. 2014 Oct 1;70:7.41.1-15. doi: 10.1002/0471142956.cy0741s70.
+
+Furia L, Pelicci P, Faretta M. Confocal microscopy for high-resolution and high-content analysis of the cell cycle. Curr Protoc Cytom. 2014 Oct 1;70:7.42.1-14. doi: 10.1002/0471142956.cy0742s70.
 
 Furia L, Pelicci S, Perillo F, Bolognesi MM, Pelicci PG, Facciotti F, Cattoretti G, Faretta M. Automated multimodal fluorescence microscopy for hyperplex spatial-proteomics: Coupling microfluidic-based immunofluorescence to high resolution, high sensitivity, three-dimensional analysis of histological slides. Front Oncol. 2022 Oct 13;12:960734. doi: 10.3389/fonc.2022.960734.
 
