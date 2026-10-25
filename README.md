@@ -41,7 +41,8 @@ The macros were tested on ImageJ 1.53n, JAVA 1.8.0_172 (64-bit) on Windows 10.
 
 ## History
 
-<img width="1025" height="514" alt="image" src="https://github.com/user-attachments/assets/a0aa6758-ccde-48f2-97c8-a15731d9609b" />
+<img width="1025" height="545" alt="image" src="https://github.com/user-attachments/assets/42a20107-20d1-42e9-a163-0e7bfb549cd3" />
+
 
 ## Contributions
 
