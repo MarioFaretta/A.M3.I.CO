@@ -4,7 +4,7 @@ The procedure has been created for Ti2E inverted microscopes. Below you find the
 
 ## Rationale
 
-The procedure starts with the collection of a _Map_, a low resoluion image (4x or 10x magnification) of the sample to be acquired. The map ia obtaneid from the stichning of an extended area - millimiters or centimeters - where regions are defined by the users to collect the required number of events. The frequency of the targeted phenotype is obviously the starting point to fix this parameter. After the definition of the regions of interest, the system switches to the desired magnification for the high resolution acquisition.
+The procedure starts with the collection of a _Map_, a low resoluion image (4x or 10x magnification) of the sample to be acquired. The map ia obtained from the stichning of images to cover an extended area - millimiters or centimeters - and is employed to define regions to collect, at high resolution, the required number of events. The frequency of the targeted phenotype is obviously the starting point to fix the final number of regions. After the definition of the regions of interest, the system switches to the desired magnification for the high resolution acquisition.
 
 Sometimes this couls also be an intermediate step to retrieve the final target. As explained in _Furia et al., Front. Onc. 2022, Image Cytometry analysis of a __Tissue Micro Array (TMA)__ starts from the _Map_ of the TMA, to localize all the cores and then move to an intermediate resolution and sensitivity acquisition of every core with a 20x objective. Then, extracting from the image metadata the stage coordinates of the selected cores, the final acquisition starts employing a high resolution 60x oil immersion objective. 
 
