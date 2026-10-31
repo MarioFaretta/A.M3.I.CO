@@ -34,7 +34,7 @@ Source:
 # Automated multi resolution data collection
 
 The general procedure is explained in the references below (in particular, Furia et al. Cytometry 2013, Furia et al. Front. Onc. 2022, Pelicci et al. Cells 2023, Pelicci et al. Laser Microdissection, Methods Molecular Biology, 2026).
-Here you find a description of the [Automeated_Image_Cytometry](/Tutorial/Automated_Image_Cytometry/ScanStage.md) image acquisition procedure. It has been created as a  _JOB_ for the NIS Elements control software on a motorized Nikon microscopes (Ti2E inverted motorized microscope as described in our works). The detailed description of all the steps wants to help users of different microscopy station to rebuild the process in the brand specific environment.
+Here you find a description of the [Automeated_Image_Cytometry](Automated_Image_Cytometry/ScanStage.md) image acquisition procedure. It has been created as a  _JOB_ for the NIS Elements control software on a motorized Nikon microscopes (Ti2E inverted motorized microscope as described in our works). The detailed description of all the steps wants to help users of different microscopy station to rebuild the process in the brand specific environment.
 
 # -----------------------------------------------------------------
 The site is under construction. For more information take a look at the references below or write to mario.faretta@ieo.it
